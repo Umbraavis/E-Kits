@@ -1,5 +1,10 @@
 # E-Kits
 
+Source: 
+
+https://chat.deepseek.com/
+
+
 Here’s the revised analysis for a **125cc moped converted to electric** in the Negros Oriental region (Philippines), using kilometers and local electricity rates:
 
 ---
